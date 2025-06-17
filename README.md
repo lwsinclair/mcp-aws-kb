@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sammcj-mcp-aws-kb-badge.png)](https://mseep.ai/app/sammcj-mcp-aws-kb)
+
 # AWS Knowledge Base Retrieval MCP Server
 
 An MCP server implementation for retrieving information from the AWS Knowledge Base using the Bedrock Agent Runtime.
